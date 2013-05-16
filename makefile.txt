@@ -1,0 +1,3 @@
+all:
+	gcc server.c -pthread
+	gcc client.c
